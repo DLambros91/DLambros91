@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Demetrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dlambros91&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Demetrios' GitHub stats](https://github-readme-stats-git-master-dlambros91.vercel.app/api?username=dlambros91&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlambros91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-master-dlambros91.vercel.app/api/top-langs/?username=dlambros91&layout=compact)
 
-[![Demetrios' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dlambros91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Demetrios' WakaTime stats](https://github-readme-stats-git-master-dlambros91.vercel.app/api/wakatime?username=dlambros91&layout=compact)
 
 <!--
 **DLambros91/DLambros91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
