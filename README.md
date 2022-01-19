@@ -2,7 +2,7 @@
 
 ![Demetrios' GitHub stats](https://github-readme-stats-git-master-dlambros91.vercel.app/api?username=dlambros91&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats-git-master-dlambros91.vercel.app/api/top-langs/?username=dlambros91&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-git-master-dlambros91.vercel.app/api/top-langs/?username=dlambros91&count_private=true&langs_count=10&layout=compact)
 
 ![Demetrios' WakaTime stats](https://github-readme-stats-git-master-dlambros91.vercel.app/api/wakatime?username=dlambros91&layout=compact)
 
