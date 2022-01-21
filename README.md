@@ -9,6 +9,7 @@
 
 ![Demetrios' WakaTime stats](https://github-readme-stats-git-master-dlambros91.vercel.app/api/wakatime?username=dlambros91&layout=compact)
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=dpl60&theme=default)
 <!--
 **DLambros91/DLambros91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
